@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Github!!!!!!!
 
 Robotics PhD student at Georgia Tech.
 Bachelor of Science in Electrical Engineering with minors in Mathematics and Physics from University of Texas at Arlington.
