@@ -1,6 +1,7 @@
 ## Welcome to my Github!!!!!!!
 
 Robotics PhD student at Georgia Tech.
+
 Bachelor of Science in Electrical Engineering with minors in Mathematics and Physics from University of Texas at Arlington.
 
 My robotics work centers around hardware applications (usually on quadrotors) of (hopefully safe) autonomous control algorithms.
