@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**evannsm/evannsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics PhD student at Georgia Tech.
+Bachelor of Science in Electrical Engineering with minors in Mathematics and Physics from University of Texas at Arlington.
 
-Here are some ideas to get you started:
+My robotics work centers around hardware applications (usually on quadrotors) of (hopefully safe) autonomous control algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Reseach Interest**: Safe Autonomy, Nonlinear Control, Aggressive Quadrotor Control, Reachability Analysis, Reinforcement Learning
+
+
+**Advisor**: Dr. Samuel Coogan
+
+## Contact Information:
+Email address: egm @  gatech (dot) edu
+LinkedIn Profile: www.linkedin.com/in/evanns-morales
