@@ -1,4 +1,4 @@
-## Welcome to my Github!!!!!!! 
+## Welcome to my Github!
 
 Here you'll find the code for my research publications and maybe some other helpful code and guides I've written for myself and others who do similar research 🙃
 ### A bit about me:
