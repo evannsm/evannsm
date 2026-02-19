@@ -16,30 +16,7 @@ Robotics PhD student at Georgia Tech.<br><br>Bachelor of Science in Electrical E
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=evannsm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-
-### GitHub Repository Contribution Stats
-
-[![evannsm's GitHub repository contribution stats](https://github-contributor-stats.vercel.app/api?username=evannsm&limit=10&theme=dark&order_by=contributions&combine_all_yearly_contributions=true)](https://github.com/evannsm)
-
-</div>
-
-
-<div align="center">
-
-[![evannsm's GitHub repository contribution stats](https://github-contributor-stats.vercel.app/api?username=evannsm&limit=10&theme=dark&order_by=contributions&combine_all_yearly_contributions=true&hide=B,B%2B)](https://github.com/evannsm)
-
-</div>
-
-
-
-<div align="center">
-
-[![evannsm's GitHub repository contribution stats](https://github-contributor-stats.vercel.app/api?username=evannsm&limit=10&theme=dark&order_by=contributions&combine_all_yearly_contributions=true&hide_contributor_rank=false)](https://github.com/evannsm)
-
-</div>
-
-
+![](https://github-contributor-stats.vercel.app/api?username=evannsm&limit=5&order_by=stars)
 
 ## Contact Information & Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evanns-morales) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egm@gatech.edu) 
