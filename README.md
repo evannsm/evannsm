@@ -1,4 +1,4 @@
-# Welcome to my Github! ![](https://komarev.com/ghpvc/?username=evannsm&style=plastic&base=327)
+# Welcome to my Github! ![](https://komarev.com/ghpvc/?username=evannsm&style=flat&base=327)
 
 Here you'll find the code for my research publications and maybe some other helpful code and guides I've written for myself and others who do similar research 🙃
 
