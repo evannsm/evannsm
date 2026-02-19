@@ -17,7 +17,7 @@ Robotics PhD student at Georgia Tech.<br><br>Bachelor of Science in Electrical E
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=evannsm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![](https://komarev.com/ghpvc/?username=evannsm&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=evannsm&style=for-the-badge&base=327)
 
 ## Contact Information & Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evanns-morales) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egm@gatech.edu) 
