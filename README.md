@@ -13,14 +13,6 @@ Robotics PhD student at Georgia Tech.<br><br>Bachelor of Science in Electrical E
 ![](https://nirzak-streak-stats.vercel.app/?user=evannsm&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evannsm&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=evannsm&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![](https://github-contributor-stats.vercel.app/api?username=evannsm&limit=5&order_by=stars)
-
-![](https://github-contributor-stats.vercel.app/api?username=evannsm&limit=5&order_by=stars&theme=dark)
-
-
 ## Contact Information & Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evanns-morales) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egm@gatech.edu) 
 
