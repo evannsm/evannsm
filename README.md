@@ -30,11 +30,15 @@ Robotics PhD student at Georgia Tech.<br><br>Bachelor of Science in Electrical E
 [![evannsm's GitHub repository contribution stats](https://github-contributor-stats.vercel.app/api?username=evannsm&limit=10&theme=dark&order_by=contributions&combine_all_yearly_contributions=true&hide=B,B%2B)](https://github.com/evannsm)
 
 </div>
+
+
+
 <div align="center">
 
 [![evannsm's GitHub repository contribution stats](https://github-contributor-stats.vercel.app/api?username=evannsm&limit=10&theme=dark&order_by=contributions&combine_all_yearly_contributions=true&hide_contributor_rank=false)](https://github.com/evannsm)
 
 </div>
+
 
 
 ## Contact Information & Socials:
