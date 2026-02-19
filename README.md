@@ -9,7 +9,7 @@ Bachelor of Science in Electrical Engineering with minors in Mathematics and Phy
 
 My robotics work centers around hardware applications (usually on quadrotors) of (hopefully safe) autonomous control algorithms.
 
-**Reseach Interest**: Safe Autonomy, Nonlinear Control, Aggressive Quadrotor Control, Reachability Analysis, Reinforcement Learning
+**Reseach Interests**: Safe Autonomy, Nonlinear Control, Aggressive Quadrotor Control, Reachability Analysis, Reinforcement Learning
 
 
 **Advisor**: Dr. Samuel Coogan
