@@ -28,7 +28,7 @@ Robotics PhD student at Georgia Tech.<br><br>Bachelor of Science in Electrical E
 ![Raspberry%20Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ## 📊 GitHub Stats: ![](https://komarev.com/ghpvc/?username=evannsm&style=for-the-badge&base=327)
-![](https://github-readme-stats.vercel.app/api?username=evannsm&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github.com/pranesh-2005/github-readme-stats-fast/api?username=evannsm&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=evannsm&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evannsm&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
