@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-Here you'll find the code for my research publications and maybe some other helpful code and guides I've written for myself and others who do similar research 🙃
+Here you'll find the code for my research publications and open-source tools I've built for the robotics community.
 
 ## 💫 About Me:
 Robotics PhD student at Georgia Tech.<br><br>
@@ -8,6 +8,21 @@ Bachelor of Science in Electrical Engineering with minors in Mathematics and Phy
 My robotics work centers around hardware applications (usually on quadrotors) of (hopefully safe) autonomous control algorithms.<br><br>
 **Research Interests**: Safe Autonomy, Nonlinear Control, Aggressive Quadrotor Control, Reachability Analysis, Reinforcement Learning<br><br>
 **Advisor**: Dr. Samuel Coogan
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [**newton_raphson_px4**](https://github.com/evannsm/newton_raphson_px4) | Research-grade quadrotor controller using Newton-Raphson optimization with Integral CBFs — published at ACC 2024, IEEE TCST 2025, and IEEE TRO 2025 |
+| [**nmpc_acados_px4**](https://github.com/evannsm/nmpc_acados_px4) | Production-ready 9-state Nonlinear MPC for quadrotors using Acados/QPOASES with full ROS 2 integration |
+| [**vicon4px4**](https://github.com/evannsm/vicon4px4) | ROS 2 package for Vicon → PX4 EKF fusion; coordinate conversion, full-state relay, adopted by GT's Indoor Flight Lab |
+| [**optitrack4px4**](https://github.com/evannsm/optitrack4px4) | ROS 2 package for OptiTrack → PX4 EKF fusion via NatNet protocol — companion to vicon4px4 |
+| [**quartoCV**](https://github.com/evannsm/quartoCV) | Modular CV/résumé template using Quarto + GNU Make with incremental builds and two style variants |
+| [**quarto-gatech-slides**](https://github.com/evannsm/quarto-gatech-slides) | Official Georgia Tech-branded RevealJS presentation theme for Quarto, installable in one command |
+
+---
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -38,7 +53,7 @@ My robotics work centers around hardware applications (usually on quadrotors) of
 
 
 ## Contact Information & Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evanns-morales) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egm@gatech.edu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evanns-morales) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egm@gatech.edu)
 
 Email address: egm @  gatech (dot) edu
 
