@@ -3,7 +3,11 @@
 Here you'll find the code for my research publications and maybe some other helpful code and guides I've written for myself and others who do similar research 🙃
 
 ## 💫 About Me:
-Robotics PhD student at Georgia Tech.<br><br>Bachelor of Science in Electrical Engineering with minors in Mathematics and Physics from University of Texas at Arlington.<br><br>My robotics work centers around hardware applications (usually on quadrotors) of (hopefully safe) autonomous control algorithms.<br><br>**Research Interests**: Safe Autonomy, Nonlinear Control, Aggressive Quadrotor Control, Reachability Analysis, Reinforcement Learning<br><br>**Advisor**: Dr. Samuel Coogan
+Robotics PhD student at Georgia Tech.<br>
+Bachelor of Science in Electrical Engineering with minors in Mathematics and Physics from University of Texas at Arlington.<br>
+My robotics work centers around hardware applications (usually on quadrotors) of (hopefully safe) autonomous control algorithms.<br>
+<br>**Research Interests**: Safe Autonomy, Nonlinear Control, Aggressive Quadrotor Control, Reachability Analysis, Reinforcement Learning<br>
+<br>**Advisor**: Dr. Samuel Coogan
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
