@@ -57,6 +57,7 @@ My robotics work centers around hardware applications (usually on quadrotors) of
 
 Email address: egm @  gatech (dot) edu
 
+Personal Website/Portfolio: www.evannsmc.com
 LinkedIn Profile: www.linkedin.com/in/evanns-morales
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
