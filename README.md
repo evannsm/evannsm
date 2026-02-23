@@ -1,7 +1,7 @@
-# Evanns Morales-Cuadrado · [@evannsm](https://github.com/evannsm)
+# Evanns Morales-Cuadrado · [@evannsmc](https://evannsmc.com)
 
 > Robotics & ECE Ph.D student at Georgia Tech · Safe autonomy, nonlinear control, quadrotor UAVs
-> Personal site & portfolio: **[Evannsmc — evannsmc.com](https://evannsmc.com)**
+> Personal site & portfolio: **[evannsmc](https://evannsmc.com)**
 
 Here you'll find the code behind my research publications and open-source tools I've built for the robotics and UAV communities.
 
@@ -60,7 +60,7 @@ My robotics work centers around hardware applications (usually on quadrotors) of
 
 Email address: egm @  gatech (dot) edu
 
-Personal website: [Evannsmc — evannsmc.com](https://evannsmc.com)<br/>
+Personal website: [evannsmc](https://evannsmc.com)<br/>
 LinkedIn: [linkedin.com/in/evanns-morales](https://www.linkedin.com/in/evanns-morales)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
