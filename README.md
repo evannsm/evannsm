@@ -18,6 +18,7 @@ My robotics work centers around hardware applications (usually on quadrotors) of
 
 | Project | Description |
 |---|---|
+| [**`RTD-RAX`**](https://github.com/evannsm/rtd-rax) | Safe trajectory planning with runtime reachability verification via [immrax](https://github.com/gtfactslab/immrax) — plans with a less-conservative FRS, verifies candidates under measured disturbance bounds, and repairs unsafe trajectories online. [Docs](https://evannsm.github.io/ws_RTD) |
 | [**newton_raphson_px4**](https://github.com/evannsm/newton_raphson_px4) | Research-grade and hardware-tested quadrotor controller using Newton-Raphson optimization with Integral CBFs — published at ACC 2024, IEEE TCST 2025, and IEEE TRO 2025 |
 | [**nmpc_acados_px4**](https://github.com/evannsm/nmpc_acados_px4) | Research-grade and hardware-tested 9-state Nonlinear MPC for quadrotors using Acados/QPOASES with full ROS 2 integration |
 | [**vicon4px4**](https://github.com/evannsm/vicon4px4) | ROS 2 package for Vicon → PX4 EKF fusion; coordinate conversion, full-state relay, adopted by GT's Indoor Flight Lab |
