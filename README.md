@@ -19,12 +19,12 @@ My robotics work centers around hardware applications (usually on quadrotors) of
 | Project | Description |
 |---|---|
 | [**`RTD-RAX`**](https://github.com/evannsm/rtd-rax) | **R**untime-**A**ssurance e**X**tension of **RTD**: fast, safe trajectory planning for systems under unknown disturbances. Uses mixed-monotone reachability to certify and repair planned trajectories online, extending Reachability-based Trajectory Design with runtime safety assurance. [Project Website](https://evannsm.github.io/ws_RTD) |
-| [**newton_raphson_px4**](https://github.com/evannsm/newton_raphson_px4) | Research-grade and hardware-tested quadrotor controller using Newton-Raphson optimization with Integral CBFs — published at ACC 2024, IEEE TCST 2025, and IEEE TRO 2025 |
-| [**nmpc_acados_px4**](https://github.com/evannsm/nmpc_acados_px4) | Research-grade and hardware-tested 9-state Nonlinear MPC for quadrotors using Acados/QPOASES with full ROS 2 integration |
-| [**vicon4px4**](https://github.com/evannsm/vicon4px4) | ROS 2 package for Vicon → PX4 EKF fusion; coordinate conversion, full-state relay, adopted by GT's Indoor Flight Lab |
-| [**optitrack4px4**](https://github.com/evannsm/optitrack4px4) | ROS 2 package for OptiTrack → PX4 EKF fusion via NatNet protocol |
-| [**quartoCV**](https://github.com/evannsm/quartoCV) | Modular CV/résumé template using Quarto + GNU Make with incremental builds and two style variants |
-| [**quarto-gatech-slides**](https://github.com/evannsm/quarto-gatech-slides) | Official Georgia Tech-branded RevealJS presentation theme for Quarto, installable in one command |
+| [**newton_raphson_px4**](https://github.com/evannsm/newton_raphson_px4) | Research-grade and hardware-tested quadrotor controller using Newton-Raphson optimization with Integral CBFs — published at ACC 2024, IEEE TCST 2025, and IEEE TRO 2025. [Project Page](https://www.evannsmc.com/projects/nr-flow/) |
+| [**nmpc_acados_px4**](https://github.com/evannsm/nmpc_acados_px4) | Research-grade and hardware-tested 9-state Nonlinear MPC for quadrotors using Acados/QPOASES with full ROS 2 integration. [Project Page](https://www.evannsmc.com/projects/nmpc-acados/) |
+| [**vicon4px4**](https://github.com/evannsm/vicon4px4) | ROS 2 package for Vicon → PX4 EKF fusion; coordinate conversion, full-state relay, adopted by GT's Indoor Flight Lab. [Project Page](https://www.evannsmc.com/projects/mocap4px4/) |
+| [**optitrack4px4**](https://github.com/evannsm/optitrack4px4) | ROS 2 package for OptiTrack → PX4 EKF fusion via NatNet protocol. [Project Page](https://www.evannsmc.com/projects/mocap4px4/) |
+| [**quartoCV**](https://github.com/evannsm/quartoCV) | Modular CV/résumé template using Quarto + GNU Make with incremental builds and two style variants. [Project Page](https://www.evannsmc.com/projects/quartocv/) |
+| [**quarto-gatech-slides**](https://github.com/evannsm/quarto-gatech-slides) | Official Georgia Tech-branded RevealJS presentation theme for Quarto, installable in one command. [Project Page](https://www.evannsmc.com/projects/gatech-slides/) |
 
 ---
 
