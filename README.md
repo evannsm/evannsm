@@ -51,11 +51,13 @@ My robotics work centers around hardware applications (usually on quadrotors) of
 ![Raspberry%20Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ## 📊 GitHub Stats: ![](https://komarev.com/ghpvc/?username=evannsmc&style=for-the-badge&base=327)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=evannsmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=evannsmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=evannsmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=evannsmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=evannsmc&theme=dracula&hide_border=true)<br/>
+
+
+
 ## Contact Information & Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evanns-morales) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egm@gatech.edu)
 
