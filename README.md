@@ -50,7 +50,7 @@ My robotics work centers around hardware applications (usually on quadrotors) of
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Raspberry%20Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## 📊 GitHub Stats: ![](https://komarev.com/ghpvc/?username=evannsmc&style=for-the-badge&base=327)
+## 📊 GitHub Stats: ![](https://komarev.com/ghpvc/?username=evannsmc&style=for-the-badge&base=849)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=evannsmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evannsmc&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/> -->
