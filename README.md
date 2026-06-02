@@ -24,6 +24,7 @@ My robotics work centers around hardware applications (usually on quadrotors) of
 | [**vicon4px4**](https://github.com/evannsmc/vicon4px4) | ROS 2 package for Vicon → PX4 EKF fusion; coordinate conversion, full-state relay, adopted by GT's Indoor Flight Lab. [Project Page](https://www.evannsmc.com/projects/mocap4px4/) |
 | [**optitrack4px4**](https://github.com/evannsmc/optitrack4px4) | ROS 2 package for OptiTrack → PX4 EKF fusion via NatNet protocol. [Project Page](https://www.evannsmc.com/projects/mocap4px4/) |
 | [**quartoCV**](https://github.com/evannsmc/quartoCV) | Modular CV/résumé template using Quarto + GNU Make with incremental builds and two style variants. [Project Page](https://www.evannsmc.com/projects/quartocv/) |
+| [**BeginnerHomelabGuide**](https://github.com/evannsmc/BeginnerHomelabGuide) | A beginner-friendly, build-one-job-at-a-time guide to a private Raspberry Pi homelab on Tailscale — media streaming, network-wide ad blocking, pretty HTTPS URLs, a one-URL dashboard, and a VPN, with no port forwarding and nothing exposed to the public internet. [Project Page](https://www.evannsmc.com/projects/homelab/) |
 | [**quarto-gatech-slides**](https://github.com/evannsmc/quarto-gatech-slides) | Official Georgia Tech-branded RevealJS presentation theme for Quarto, installable in one command. [Project Page](https://www.evannsmc.com/projects/gatech-slides/) |
 
 ---
