@@ -18,9 +18,9 @@ My robotics work centers around hardware applications (usually on quadrotors) of
 
 | Project | Description |
 |---|---|
+| [**nmpc_acados_px4**](https://github.com/evannsmc/nmpc_acados_px4) | Research-grade and hardware-tested 9-state Nonlinear MPC for quadrotors using Acados/QPOASES with full ROS 2 integration. [Project Page](https://www.evannsmc.com/projects/nmpc-acados/) |
 | [**`RTD-RAX`**](https://github.com/evannsmc/rtd-rax) | **R**untime-**A**ssurance e**X**tension of **RTD**: fast, safe trajectory planning for systems under unknown disturbances. Uses mixed-monotone reachability to certify and repair planned trajectories online, extending Reachability-based Trajectory Design with runtime safety assurance. [Project Website](https://evannsmc.github.io/ws_RTD) |
 | [**newton_raphson_px4**](https://github.com/evannsmc/newton_raphson_px4) | Research-grade and hardware-tested quadrotor controller using Newton-Raphson optimization with Integral CBFs — published at ACC 2024, IEEE TCST 2025, and IEEE TRO 2025. [Project Page](https://www.evannsmc.com/projects/nr-flow/) |
-| [**nmpc_acados_px4**](https://github.com/evannsmc/nmpc_acados_px4) | Research-grade and hardware-tested 9-state Nonlinear MPC for quadrotors using Acados/QPOASES with full ROS 2 integration. [Project Page](https://www.evannsmc.com/projects/nmpc-acados/) |
 | [**vicon4px4**](https://github.com/evannsmc/vicon4px4) | ROS 2 package for Vicon → PX4 EKF fusion; coordinate conversion, full-state relay, adopted by GT's Indoor Flight Lab. [Project Page](https://www.evannsmc.com/projects/mocap4px4/) |
 | [**optitrack4px4**](https://github.com/evannsmc/optitrack4px4) | ROS 2 package for OptiTrack → PX4 EKF fusion via NatNet protocol. [Project Page](https://www.evannsmc.com/projects/mocap4px4/) |
 | [**quartoCV**](https://github.com/evannsmc/quartoCV) | Modular CV/résumé template using Quarto + GNU Make with incremental builds and two style variants. [Project Page](https://www.evannsmc.com/projects/quartocv/) |
